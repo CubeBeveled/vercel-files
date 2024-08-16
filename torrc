@@ -4,3 +4,4 @@ ORPort 25001
 ExitRelay 0
 SocksPort 0
 MaxMemInQueues 2048 MB
+RunAsDaemon 1
